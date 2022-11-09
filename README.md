@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>AleFreitas</h1>
-  <h3>😎 Software Engineer and Computer Engineering Student at UNB, Brazil 🌎</h3>
+  <h3>😎 Independent Software Engineer and Computer Engineering Student at UNB, Brazil 🌎</h3>
 </div>
 <h1 align="left" >About Me ...</h1>
 <div style="display:flex; height:150px; overflow: auto; margin-bottom:10px;">
@@ -44,11 +44,23 @@
 
 
 <div align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto6-buzzquizz&show_icons=true" alt="My github stats">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Parrots-Card-Game&show_icons=true" alt="My github stats">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=DrivenEats&show_icons=true" alt="My github stats">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto5-batepapouol&show_icons=true" alt="My github stats">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Instagram-responsive-main-page&show_icons=true" alt="My github stats">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=globo.com-main-page-html&show_icons=true" alt="My github stats">
+  <a href="https://github.com/AleFreitas/projeto6-buzzquizz">
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto6-buzzquizz&show_icons=true" alt="My github stats">
+  </a>
+  <a>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Parrots-Card-Game&show_icons=true" alt="My github stats">
+  </a>
+  <a>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=DrivenEats&show_icons=true" alt="My github stats">
+  </a>
+  <a>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto5-batepapouol&show_icons=true" alt="My github stats">
+  </a>
+  <a>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Instagram-responsive-main-page&show_icons=true" alt="My github stats">
+  </a>
+  <a>
+    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=globo.com-main-page-html&show_icons=true" alt="My github stats">
+  </a>
 </div>
 
