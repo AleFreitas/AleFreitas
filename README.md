@@ -6,7 +6,7 @@
   <h1>AleFreitas</h1>
   <h3>😎 Computer Engineering Student & Fullstack student, Brazil 🌎</h3>
 </div>
-<h1 align="center" >About Me</h1>
+<h1 align="left" >About Me ...</h1>
 <div style="display:flex; height:150px; overflow: auto; margin-bottom:10px;">
   <img align="right" style="width: 49%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=AleFreitas&count_private=true&show_icons=true" alt="My github stats">
   <p align="left">My name is Alexandre de Freitas, but you can call me xande. I'm  a Computer Engineering student at UNB and i am currently also taking a fullstack   programming course at Driven. I have experience in programming with quite a few different languages and i love to learn new things</p>
