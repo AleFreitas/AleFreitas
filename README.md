@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>AleFreitas</h1>
-  <h3>😎 Computer Engineering Student & Fullstack student, Brazil 🌎</h3>
+  <h3>😎 Software Engineer and Computer Engineering Student at UNB, Brazil 🌎</h3>
 </div>
 <h1 align="left" >About Me ...</h1>
 <div style="display:flex; height:150px; overflow: auto; margin-bottom:10px;">
