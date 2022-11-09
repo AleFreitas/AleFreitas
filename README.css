@@ -1,0 +1,17 @@
+body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.page{
+    display:flex;
+    justify-content: space-around;
+}
+.intro{
+    width:49%;
+}.intro p{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 400;
+    font-size:22px;
+}
