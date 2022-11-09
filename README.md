@@ -27,5 +27,8 @@ My name is Alexandre de Freitas, but you can call me **xande**. I'm  a Computer 
   <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto6-buzzquizz&show_icons=true" alt="My github stats">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Parrots-Card-Game&show_icons=true" alt="My github stats">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=DrivenEats&show_icons=true" alt="My github stats">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto5-batepapouol&show_icons=true" alt="My github stats">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Instagram-responsive-main-page&show_icons=true" alt="My github stats">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=globo.com-main-page-html&show_icons=true" alt="My github stats">
 </div>
 
