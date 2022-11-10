@@ -23,27 +23,27 @@
 <br>
 <h1>🛠️ Main Tools and Languages: </h1>
 <a href=""><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
-<a href=""><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></a>
-<a href=""><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
-<a href=""><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code></a>
-<a href=""><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code></a>
-<a href=""><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code></a>
+<a href="#"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></a>
+<a href="#"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
+<a href="#"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code></a>
 <br>
 <br>
 <h1>🌱 I'm currently learning: </h1>
-<a href=""><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code></a>
-<a href=""><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code></a>
-<a href=""><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code></a>
 <br>
 <br>
 <h1>👨‍💻 I have some experience with: </h1>
-<a href=""><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code></a>
-<a href=""><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code></a>
-<a href=""><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code></a>
-<a href=""><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code></a>
-<a href=""><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code></a>
-<a href=""><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></code></a>
-<a href=""><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code></a>
+<a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code></a>
+<a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code></a>
 <br>
 <br>
 <h1>🔍 Find me at:</h1>
