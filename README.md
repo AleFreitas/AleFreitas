@@ -4,13 +4,43 @@
 
 <div align="center">
   <h1>AleFreitas</h1>
-  <h3>😎 Independent Software Engineer and Computer Engineering Student at UNB, Brazil 🌎</h3>
+  <h1>😎 Independent Software Engineer, Brazil 🌎</h1>
 </div>
-<h1 align="left" >About Me ...</h1>
-<div style="display:flex; height:150px; overflow: auto; margin-bottom:10px;">
-  <img align="right" style="width: 49%; height: 100%;" src="https://github-readme-stats.vercel.app/api?username=AleFreitas&count_private=true&show_icons=true" alt="My github stats">
-  <p align="left">My name is Alexandre de Freitas, but you can call me xande. I'm  a Computer Engineering student at UNB and i am currently also taking a fullstack   programming course at Driven. I have experience in programming with quite a few different languages and i love to learn new things</p>
-  <div>
+<img align="right"src="https://github.com/dokkanart/swsh-gifs/blob/master/Generation%208/Charizard_Gigantamax.gif" height="250">
+<h3>
+  
+- 👋 My name is Alexandre de Freitas, but you can call me xande or alê 
+
+- 👨‍🎓 I'm currently gratuating at Computer Engineering in Brasilia, BR
+  
+- 😎 Recently i got into a full-stack developer course at Driven Education
+  
+- ⚡ Pronouns: he/him
+  
+- 😄 Fun fact: I love cute little animals 
+</h3>
+<br>
+<h1>🌱 I'm currently learning some tools and languages such as: </h1>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
+<br>
+<br>
+<h1>👨‍💻 I have some experience with: </h1>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></code>
+<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+<br>
+<br>
+<h1>Find me at:</h1>
     <a href="https://www.linkedin.com/in/alexandre-de-freitas-souza-26148b20a" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
     </a>
@@ -25,45 +55,24 @@
 <br>
 <br>
 <br>
-<h1>🌱 I'm currently learning some tools and languages such as: </h1>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
-<img height="30" src="https://github.com/SamHerbert/SVG-Loaders/blob/master/svg-loaders/spinning-circles.svg">
-<h1>👨‍💻 Also have some experience with: </h1>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg"></code>
-<br>
-<br>
-<h1>My Favourite Github Projects</h1>
+
+## 📖 A brief history about me 
+<h3>
+  My name is Alexandre de Freitas Souza (aka xande). I was born in Salvador - Bahia, in Brazil 19 years ago.
+
+Although I was born in Salvador I came to Brasília when I was about one year-old and I have always lived in Brasília since then. I'm having my graduation here at the University of Brasilia, UNB, at Computer Engineering and at the same time I am doing a fullstack course at Driven Education.
+  
+Since I was a little kid I've been interested in any type of technology, be it software or hardware. But what realy caught my attention at that time were obviously Robots and video games. 
+
+That interest evolved into casual hobbies and eventualy I started studying about it. Even though it took me untill high school to develop a real passion for programming and everything related to it I think that I got into it very fast and I have developed interesting skills since then
+
+I'm still developing my skills and knowledge and I hope that in the future I will be capable of making a difference in the world. <h3>
 
 
-<div align="center">
-  <a href="https://github.com/AleFreitas/projeto6-buzzquizz">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto6-buzzquizz&show_icons=true" alt="My github stats">
-  </a>
-  <a href="https://github.com/AleFreitas/Parrots-Card-Game">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Parrots-Card-Game&show_icons=true" alt="My github stats">
-  </a>
-  <a href="https://github.com/AleFreitas/DrivenEats">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=DrivenEats&show_icons=true" alt="My github stats">
-  </a>
-  <a href="https://github.com/AleFreitas/projeto5-batepapouol">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto5-batepapouol&show_icons=true" alt="My github stats">
-  </a>
-  <a href="https://github.com/AleFreitas/Instagram-responsive-main-page">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Instagram-responsive-main-page&show_icons=true" alt="My github stats">
-  </a>
-  <a href="https://github.com/AleFreitas/globo.com-main-page-html">
-    <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=globo.com-main-page-html&show_icons=true" alt="My github stats">
-  </a>
+## ⚙️ &nbsp;My Github numbers
+<div>
+  <a href="https://github.com/AleFreitas">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AleFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleFreitas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
