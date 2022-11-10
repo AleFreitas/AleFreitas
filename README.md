@@ -11,7 +11,7 @@
   
 - 👋 My name is Alexandre de Freitas, but you can call me xande or alê 
 
-- 👨‍🎓 I'm currently gratuating at Computer Engineering in Brasilia, BR
+- 👨‍🎓 I'm currently graduating at Computer Engineering in Brasilia, BR
   
 - 😎 Recently i got into a full-stack developer course at Driven Education
   
