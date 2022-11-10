@@ -6,7 +6,7 @@
   <h1>AleFreitas</h1>
   <h1>😎 Independent Software Engineer, Brazil 🌎</h1>
 </div>
-<img align="right"src="https://github.com/dokkanart/swsh-gifs/blob/master/Generation%208/Charizard_Gigantamax.gif" height="250">
+<img align='right' src='https://github.com/dokkanart/swsh-gifs/blob/master/Generation%208/Charizard_Gigantamax.gif' width='250' height='250'>
 <h3>
   
 - 👋 My name is Alexandre de Freitas, but you can call me xande or alê 
