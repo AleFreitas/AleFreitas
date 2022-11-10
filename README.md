@@ -30,7 +30,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code>
 <br>
 <br>
-<h1>🌱 I'm currently learning some tools and languages such as: </h1>
+<h1>🌱 I'm currently learning: </h1>
 <code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code>
@@ -46,7 +46,7 @@
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <br>
 <br>
-<h1>Find me at:</h1>
+<h1>🔍 Find me at:</h1>
     <a href="https://www.linkedin.com/in/alexandre-de-freitas-souza-26148b20a" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
     </a>
