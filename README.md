@@ -47,19 +47,19 @@
   <a href="https://github.com/AleFreitas/projeto6-buzzquizz">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto6-buzzquizz&show_icons=true" alt="My github stats">
   </a>
-  <a>
+  <a href="https://github.com/AleFreitas/Parrots-Card-Game">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Parrots-Card-Game&show_icons=true" alt="My github stats">
   </a>
-  <a>
+  <a href="https://github.com/AleFreitas/DrivenEats">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=DrivenEats&show_icons=true" alt="My github stats">
   </a>
-  <a>
+  <a href="https://github.com/AleFreitas/projeto5-batepapouol">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=projeto5-batepapouol&show_icons=true" alt="My github stats">
   </a>
-  <a>
+  <a href="https://github.com/AleFreitas/Instagram-responsive-main-page">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=Instagram-responsive-main-page&show_icons=true" alt="My github stats">
   </a>
-  <a>
+  <a href="https://github.com/AleFreitas/globo.com-main-page-html">
     <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=AleFreitas&repo=globo.com-main-page-html&show_icons=true" alt="My github stats">
   </a>
 </div>
