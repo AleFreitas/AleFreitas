@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="stackoverflow logo"  />
     </a>
     <a href="mailto:alexandrefsoficial@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-%23D14836?style=for-the-badge&logo=gmail" height="24">
+      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=red&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="Gmail logo"/>
     </a>
   </div>
 </div>
