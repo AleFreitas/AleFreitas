@@ -28,16 +28,21 @@
 <a href="#"><code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code></a>
 <a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code></a>
 <a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code></a>
+
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code></a>
 <br>
 <br>
 <h1>🌱 I'm currently learning: </h1>
 <a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code></a>
-<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code></a>
-<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"></code></a>
 <br>
 <br>
 <h1>👨‍💻 I have some experience with: </h1>
-<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code></a>
 <a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"></code></a>
 <a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"></code></a>
 <a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg"></code></a>
@@ -62,6 +67,14 @@
 <br>
 <br>
 
+## ⚙️ &nbsp;My Github numbers
+<div>
+  <a href="https://github.com/AleFreitas">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AleFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleFreitas&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+  
 ## 📖 A brief history about me 
 <h3>
   My name is Alexandre de Freitas Souza (aka xande). I was born in Salvador - Bahia, in Brazil 19 years ago.
@@ -73,12 +86,4 @@ Since I was a little kid I've been interested in any type of technology, be it s
 That interest evolved into casual hobbies and eventualy I started studying about it. Even though it took me untill high school to develop a real passion for programming and everything related to it I think that I got into it very fast and I have developed interesting skills since then
 
 I'm still developing my skills and knowledge and I hope that in the future I will be capable of making a difference in the world. <h3>
-
-
-## ⚙️ &nbsp;My Github numbers
-<div>
-  <a href="https://github.com/AleFreitas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AleFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleFreitas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
