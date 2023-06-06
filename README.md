@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>AleFreitas</h1>
-  <h1>😎 Independent Software Engineer, Brazil 🌎</h1>
+  <h1>😎 Independent Software Developer, Brazil 🌎</h1>
 </div>
 <img align='right' src='https://github.com/AleFreitas/MyGifs/blob/master/Gifs/BMO.gif' width='150"' height='250"'>
 <br>
