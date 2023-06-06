@@ -70,8 +70,12 @@
 <br>
 
 ## ⚙️ &nbsp;My Github numbers
-<div>
-  <a href="https://github.com/AleFreitas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AleFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleFreitas&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+
+![AleFreitas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AleFreitas&show_icons=true&count_private=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFreitas&layout=compact&theme=radical)
+
+![AleFreitas's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AleFreitas&theme=radical)
+
+![AleFreitas's Trophies](https://github-profile-trophy.vercel.app/?username=AleFreitas&theme=radical)
+
