@@ -10,15 +10,17 @@
 <br>
 <h3>
   
-- 👋 My name is Alexandre de Freitas, but you can call me xande or alê 
+- 🚀 Passionate about Software Development 
+  
+- 🌟 Seeking new challenges 
+  
+- 📚 Always expanding my skills
 
-- 👨‍🎓 I'm currently graduating at Computer Engineering in Brasilia, BR
-  
-- 😎 Recently i got into a full-stack developer course at Driven Education
-  
-- ⚡ Pronouns: he/him
-  
-- 😄 Fun fact: I love cute little animals 
+- 🎯 I'm a software enthusiast focused on fullstack stacks, tools, and languages like React.js, Node.js, TypeScript, OOP, SQL, and more.
+
+- 🔍 With a growth-oriented mindset, I'm actively seeking challenging projects to expand my experience and learn from top-notch professionals.
+
+- 💪 If you're looking for a motivated, creative, and results-oriented professional, I'm ready to collaborate. Get in touch and let's take your project to the next level!
 </h3>
 <br>
 <h1>🛠️ Main Tools and Languages: </h1>
@@ -73,17 +75,3 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AleFreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleFreitas&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-  
-## 📖 A brief history about me 
-<h3>
-  My name is Alexandre de Freitas Souza (aka xande). I was born in Salvador - Bahia, in Brazil 19 years ago.
-
-Although I was born in Salvador I came to Brasília when I was about one year-old and I have always lived in Brasília since then. I'm having my graduation here at the University of Brasilia, UNB, at Computer Engineering and at the same time I am doing a fullstack course at Driven Education.
-  
-Since I was a little kid I've been interested in any type of technology, be it software or hardware. But what realy caught my attention at that time were obviously Robots and video games. 
-
-That interest evolved into casual hobbies and eventualy I started studying about it. Even though it took me untill high school to develop a real passion for programming and everything related to it I think that I got into it very fast and I have developed interesting skills since then
-
-I'm still developing my skills and knowledge and I hope that in the future I will be capable of making a difference in the world. <h3>
-
