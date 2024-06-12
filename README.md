@@ -43,6 +43,7 @@
 <br>
 <h1>🌱 I'm currently learning: </h1>
 <a href="#"><code><img height="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"></code></a>
+<a href="#"><code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg"></code>
 <br>
 <br>
 <h1>👨‍💻 I have some experience with: </h1>
