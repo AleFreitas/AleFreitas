@@ -9,14 +9,16 @@
 <img align='right' src='https://github.com/AleFreitas/MyGifs/blob/master/Gifs/BMO.gif' width='150"' height='250"'>
 <br>
 <h3>
-  
+
+- 👩🏻‍💻 Currently i work at [Pix Force](https://pixforce.com/pt-br/?utm_source=google&utm_medium=cpc&utm_campaign=Google%20Search%20%7C%20LP%20%7C%20%20Termos%20de%20Marca%20%5B01%2F08%5D&utm_term=pix%20force&utm_content=ad01_pix_safety_termos_marca&gclid=CjwKCAiAssfLBhBDEiwAcLpwfguNtyFdfln1tBpPATQWLXMXMQsRZPLCutuIiEk4g-geAdpUHDnUexoCHjoQAvD_BwE)
+
 - 🚀 Passionate about Software Development 
   
 - 🌟 Seeking new challenges 
   
 - 📚 Always expanding my skills
 
-- 🎯 I'm a software enthusiast focused on fullstack stacks, tools, and languages like React.js, Node.js, TypeScript, OOP, SQL, and more.
+- 🎯 I'm a software enthusiast focused on fullstack stacks, tools, and languages like React.js, Node.js, TypeScript, OOP, SQL, Python, java and more.
 
 - 🔍 With a growth-oriented mindset, I'm actively seeking challenging projects to expand my experience and learn from top-notch professionals.
 
