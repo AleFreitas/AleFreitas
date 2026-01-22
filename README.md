@@ -18,11 +18,11 @@
   
 - 📚 Always expanding my skills
 
-- 🎯 I'm a software enthusiast focused on fullstack stacks, tools, and languages like React.js, Node.js, TypeScript, OOP, SQL, Python, java and more.
+- 🎯 I'm a software enthusiast focused on fullstack tools and languages like React.js, TypeScript, Node.js, Python, java, OOP, SQL and more.
 
 - 🔍 With a growth-oriented mindset, I'm actively seeking challenging projects to expand my experience and learn from top-notch professionals.
 
-- 💪 If you're looking for a motivated, creative, and results-oriented professional, I'm ready to collaborate. Get in touch and let's take your project to the next level!
+- 💪 If you're looking for a motivated, creative, and results-oriented professional, I'm ready to collaborate in personal or company projects. Get in touch and let's take your project to the next level!
 </h3>
 <br>
 <h1>🛠️ Main Tools and Languages: </h1>
