@@ -65,11 +65,5 @@
 
 ## ⚙️ &nbsp;My Github numbers
 
-![AleFreitas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AleFreitas&show_icons=true&count_private=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AleFreitas&layout=compact&theme=radical)
-
-![AleFreitas's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=AleFreitas&theme=radical)
-
-![AleFreitas's Trophies](https://github-profile-trophy.vercel.app/?username=AleFreitas&theme=radical)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AleFreitas" alt="GitHub Streak" /></a>
 
