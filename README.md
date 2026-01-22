@@ -58,8 +58,3 @@
 <br>
 <br>
 <br>
-
-## ⚙️ &nbsp;My Github numbers
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AleFreitas" alt="GitHub Streak" /></a>
-
